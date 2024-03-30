@@ -1,5 +1,4 @@
 # QR Code Generator
-<hr>
 
 QR Code Generator project utilizes Node.js and several npm packages to create a simple command-line application that prompts the user to input a URL. It then generates a QR code image based on the provided URL and saves both the URL and the QR code image to separate files.
 
